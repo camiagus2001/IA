@@ -4,11 +4,12 @@ using UnityEngine;
 
 public class AstroView : MonoBehaviour
 {
-    Rigidbody _rb;
-    public Animator anim;
+    private Rigidbody _rb;
+    private Animator anim;
     private void Awake()
     {
         _rb = GetComponent<Rigidbody>();
+        anim = GetComponent<Animator>();    
     }
     private void Update()
     {

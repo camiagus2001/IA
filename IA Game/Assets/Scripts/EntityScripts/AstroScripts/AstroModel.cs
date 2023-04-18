@@ -14,7 +14,9 @@ public class AstroModel : EntityBase
     public float gravity = 20.0f;
     void Start()
     {
-        controller = GetComponent<CharacterController>();        
+        controller = GetComponent<CharacterController>();
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
     void Update()
     {

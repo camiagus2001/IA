@@ -5,7 +5,7 @@ using UnityEngine;
 public class EntityBase : MonoBehaviour
 {
     public float speed;
-    // public float rotSpeed = 5;
+    public float rotSpeed = 5;
     Rigidbody _rb;
     private void Awake()
     {
@@ -17,14 +17,14 @@ public class EntityBase : MonoBehaviour
         dirSpeed.y = _rb.velocity.y;
         _rb.velocity = dirSpeed;
     }
-    /*
+    
     public void LookDir(Vector3 dir)
     {
         if (dir == Vector3.zero) return;
         dir.y = 0;
-        //transform.forward = Vector3.Lerp(transform.forward, dir, Time.deltaTime * rotSpeed);
+        transform.forward = Vector3.Lerp(transform.forward, dir, Time.deltaTime * rotSpeed);
     }
-    */
+    
     public Vector3 GetFoward => transform.forward;
     public float GetSpeed => _rb.velocity.magnitude;
 }
