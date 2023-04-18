@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{44394C0B-182B-2003-A640-0FFECA29D275}</ProjectGuid>
+    <ProjectGuid>{BC9F7CD7-BE1F-9B78-3552-81B6630A5192}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -59,6 +59,8 @@
     <Compile Include="Assets\Scripts\EntityScripts\FrogScripts\FrogState\FrogStateBase.cs" />
     <Compile Include="Assets\Scripts\TreeScripts\TestTree.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\EntityBase.cs" />
+    <Compile Include="Assets\Scripts\SteeringScripts\Flee.cs" />
+    <Compile Include="Assets\Scripts\SteeringScripts\Evade.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\PlayerScripts\PlayerStatesEnum.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\FrogScripts\FrogState\FrogAttackState.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\PlayerScripts\PlayerModel.cs" />
@@ -68,13 +70,17 @@
     <Compile Include="Assets\Scripts\FSMScripts\IState.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\AkuakuScripts\AkuakuController.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\FrogScripts\FrogModel.cs" />
+    <Compile Include="Assets\Scripts\SteeringScripts\Seek.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\FrogScripts\FrogState\FrogStateEnum.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\PlayerScripts\PlayerStatesScripts\PlayerStateIdle.cs" />
+    <Compile Include="Assets\Scripts\SteeringScripts\ObstacleAvoidance.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\FrogScripts\FrogState\FrogDiedState.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\FrogScripts\FrogState\FrogIdleState.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\AkuakuScripts\Akuaku.cs" />
+    <Compile Include="Assets\Scripts\SteeringScripts\ISteering.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\FrogScripts\FrogController.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\FrogScripts\FrogState\FrogJumpState.cs" />
+    <Compile Include="Assets\Scripts\SteeringScripts\Pursuit.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\PlayerScripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\PlayerScripts\PlayerView.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\PlayerScripts\PlayerStatesScripts\PlayerStateMove.cs" />
@@ -84,12 +90,15 @@
     <Compile Include="Assets\Scripts\EntityScripts\CameraScripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\EntityScripts\CameraScripts\CameraModel.cs" />
     <Compile Include="Assets\Scripts\FSMScripts\FSM.cs" />
-    <Compile Include="Assets\Scripts\SteeringScripts\Seek.cs" />
-    <Compile Include="Assets\Scripts\SteeringScripts\ISteering.cs" />
-    <Compile Include="Assets\Scripts\SteeringScripts\Flee.cs" />
-    <Compile Include="Assets\Scripts\SteeringScripts\Pursuit.cs" />
-    <Compile Include="Assets\Scripts\SteeringScripts\Evade.cs" />
-    <Compile Include="Assets\Scripts\SteeringScripts\ObstacleAvoidance.cs" />
+    <Compile Include="Assets\Stylized_Astronaut\Character\AstronautPlayer.cs" />
+    <Compile Include="Assets\Stylized_Astronaut\Character\AstronautThirdPersonCamera.cs" />
+    <Compile Include="Assets\Stylized_Astronaut\AstroScripts\AstroController.cs" />
+    <Compile Include="Assets\Stylized_Astronaut\AstroScripts\AstroModel.cs" />
+    <Compile Include="Assets\Stylized_Astronaut\AstroScripts\AstroStateEnum.cs" />
+    <Compile Include="Assets\Stylized_Astronaut\AstroScripts\AstroState\AstroStateBase.cs" />
+    <Compile Include="Assets\Stylized_Astronaut\AstroScripts\AstroState\AstroStateIdle.cs" />
+    <Compile Include="Assets\Stylized_Astronaut\AstroScripts\AstroState\AstroStateMove.cs" />
+    <Compile Include="Assets\Stylized_Astronaut\AstroScripts\AstroView.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -733,6 +742,12 @@
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>Library\ScriptAssemblies\Cinemachine.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
