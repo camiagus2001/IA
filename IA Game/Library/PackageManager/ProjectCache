@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638173854600071585
-    m_Hash: 3297369503
+      ticks: 638174013605759464
+    m_Hash: 3528904617
   m_LockFileStatus:
     m_FilePath: C:/Users/Camila Liendro/Documents/Liendro Camila/Repo IA/IA Game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638173854600271600
-    m_Hash: 143185348
+      ticks: 638174013605809335
+    m_Hash: 88147723
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:

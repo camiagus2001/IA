@@ -5,7 +5,7 @@ using UnityEngine;
 public class EntityBase : MonoBehaviour
 {
     public float speed;
-   // public float rotSpeed = 5;
+    // public float rotSpeed = 5;
     Rigidbody _rb;
     private void Awake()
     {

@@ -1604,3 +1604,586 @@ IA Game/Temp/ProcessJobs/835c05c004b3e9622eca9fc3ba7a2908.bakeil
 IA Game/Temp/ProcessJobs/8cb20235ac6ca773bd6952912944cfad.bakert
 IA Game/Temp/UnityLockfile
 IA Game/UserSettings/Layouts/CurrentMaximizeLayout.dwlt
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/.gitattributes
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/.github/CODEOWNERS
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/.github/pull_request_template.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/CHANGELOG.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/CHANGELOG.md.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/cinemachine.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/Cinemachine2D.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/Cinemachine3rdPersonAim.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/Cinemachine3rdPersonFollow.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineAimComposer.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineAimDoNothing.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineAimGroupComposer.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineAimHardLook.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineAimPOV.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineAimSameAsFollow.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineAlternativeInput.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/cinemachineAPI.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineBindingModes.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineBlending.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineBlendListCamera.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineBody3rdPersonFollow.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineBodyDoNothing.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineBodyFramingTransposer.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineBodyHardLockTarget.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineBodyOrbitalTransposer.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineBodyTrackedDolly.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineBodyTransposer.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineBrainProperties.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineClearShot.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineCollider.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineColliderConfiner.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineCollisionImpulseSource.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineConfiner.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineConfiner2D.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineDolly.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineDollyCart.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineExternalCamera.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineFollowZoom.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineFreeLook.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineImpulse.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineImpulseFiltering.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineImpulseFixedSignals.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineImpulseListener.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineImpulseNoiseProfiles.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineImpulseRawSignal.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineImpulseSource.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineImpulseSourceOverview.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineManagerCameras.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineMixingCamera.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineMultipleCameras.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineNoiseProfiles.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachinePath.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachinePixelPerfect.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachinePostProcessing.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineRecomposer.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineSavingDuringPlay.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineSetUpVCam.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineSmoothPath.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineStateDrivenCamera.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineStoryboard.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineTargetGroup.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineTimeline.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineTopDown.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineUsing.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineVirtualCamera.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineVirtualCameraAim.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineVirtualCameraBody.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineVirtualCameraExtensions.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineVirtualCameraNoise.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/CinemachineVolumeSettings.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/index.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Documentation~/TableOfContents.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/com.unity.cinemachine.Editor.asmdef
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/com.unity.cinemachine.Editor.asmdef.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/EditorResources.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/EditorResources/Cinemachine_header.tif.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/EditorResources/cm_logo_sm.png.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/EditorResources/CMWaveform.compute
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/EditorResources/CMWaveform.compute.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/EditorResources/CMWaveform.shader
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/EditorResources/CMWaveform.shader.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/EditorResources/PostProcessLayer.png.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/EditorResources/StdLib.hlsl
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/EditorResources/StdLib.hlsl.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/Cinemachine3rdPersonFollowEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineBasicMultiChannelPerlinEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineBlenderSettingsEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineBlendListCameraEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineBrainEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineClearShotEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineColliderEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineComposerEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineConfiner2DEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineConfinerEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineExternalCameraEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineFramingTransposerEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineFreeLookEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineGroupComposerEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineHardLockToTargetEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineHardLookAtEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineMixingCameraEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineNoiseSettingsEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineOrbitalTransposerEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachinePathEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachinePOVEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineSameAsFollowTargetEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineScreenComposerGuides.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineSmoothPathEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineStateDrivenCameraEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineStoryboardEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineTargetGroupEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineTrackedDollyEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineTransposerEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Editors/CinemachineVirtualCameraEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Experimental.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Experimental/CinemachineNewFreeLookEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Experimental/CinemachineNewVirtualCameraEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Helpers.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Helpers/CinemachineTriggerActionEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Impulse.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Impulse/CinemachineCollisionImpulseSourceEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Impulse/CinemachineImpulseChannelPropertyDrawer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Impulse/CinemachineImpulseChannels.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Impulse/CinemachineImpulseDefinitionPropertyDrawer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Impulse/CinemachineImpulseEnvelopePropertyDrawer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Impulse/CinemachineImpulseListenerEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Impulse/CinemachineImpulseSourceEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Menus.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Menus/CinemachineMenu.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/PostProcessing.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/PostProcessing/CinemachinePostProcessingEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/PostProcessing/CinemachineVolumeSettingsEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/PropertyDrawers.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/PropertyDrawers/AxisStatePropertyDrawer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/PropertyDrawers/CinemachineBlendDefinitionPropertyDrawer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/PropertyDrawers/CinemachineTagFieldPropertyDrawer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/PropertyDrawers/EmbeddedAssetPropertyDrawer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/PropertyDrawers/NoiseSettingsPropertyDrawer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/PropertyDrawers/OrbitalTransposerHeadingPropertyDrawer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/PropertyDrawers/VcamTargetPropertyDrawer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Timeline.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Timeline/CinemachineShotClipEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Timeline/CinemachineShotEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Utility.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Utility/BaseEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Utility/CinemachineEditorAnalytics.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Utility/CinemachineLensPresets.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Utility/EmbeddedAssetHelpers.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Utility/InspectorUtility.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Utility/ReflectionHelpers.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Utility/SaveDuringPlay.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Utility/ScriptableObjectUtility.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Utility/SerializedPropertyHelper.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Utility/VcamStageEditor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Windows.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Windows/CinemachineColliderPrefs.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Windows/CinemachineSettings.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Editor/Windows/WaveformWindow.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Gizmos.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Gizmos/cm_logo.png.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/LICENSE.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/LICENSE.md.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/license.txt
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/license.txt.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/package.json
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/package.json.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/6D Shake.asset
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/6D Shake.asset.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/6D Wobble.asset
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/6D Wobble.asset.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/Handheld_normal_extreme.asset
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/Handheld_normal_extreme.asset.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/Handheld_normal_mild.asset
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/Handheld_normal_mild.asset.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/Handheld_normal_strong.asset
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/Handheld_normal_strong.asset.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/Handheld_tele_mild.asset
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/Handheld_tele_mild.asset.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/Handheld_tele_strong.asset
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/Handheld_tele_strong.asset.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/Handheld_wideangle_mild.asset
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/Handheld_wideangle_mild.asset.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/Handheld_wideangle_strong.asset
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Presets/Noise/Handheld_wideangle_strong.asset.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/README.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/README.md.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/AssemblyInfo.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/Cinemachine3rdPersonAim.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineBlendListCamera.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineBrain.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineCameraOffset.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineClearShot.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineCollider.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineConfiner.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineConfiner2D.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineDollyCart.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineExternalCamera.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineFollowZoom.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineFreeLook.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineMixingCamera.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachinePath.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachinePipeline.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachinePixelPerfect.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineRecomposer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineSmoothPath.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineStateDrivenCamera.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineStoryboard.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineTargetGroup.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineVirtualCamera.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/com.unity.cinemachine.asmdef
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/com.unity.cinemachine.asmdef.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Components.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Components/Cinemachine3rdPersonFollow.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Components/CinemachineBasicMultiChannelPerlin.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Components/CinemachineComposer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Components/CinemachineFramingTransposer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Components/CinemachineGroupComposer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Components/CinemachineHardLockToTarget.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Components/CinemachineHardLookAt.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Components/CinemachineOrbitalTransposer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Components/CinemachinePOV.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Components/CinemachineSameAsFollowTarget.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Components/CinemachineTrackedDolly.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Components/CinemachineTransposer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/AxisState.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/CameraState.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/CinemachineBlend.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/CinemachineBlenderSettings.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/CinemachineComponentBase.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/CinemachineCore.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/CinemachineDebug.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/CinemachineExtension.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/CinemachineInputAxisDriver.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/CinemachinePathBase.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/CinemachinePropertyAttribute.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/CinemachineVirtualCameraBase.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/ConfinerOven.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/GaussianFilter.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/ICinemachineCamera.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/ICinemachineComponent.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/LensSettings.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/NoiseSettings.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/Predictor.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/RuntimeUtility.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/SignalSourceAsset.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/SplineHelpers.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/TargetPositionCache.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/UnityVectorExtensions.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Core/UpdateTracker.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Experimental.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Experimental/CinemachineNewFreeLook.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Experimental/CinemachineNewVirtualCamera.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Helpers.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Helpers/CinemachineInputProvider.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Helpers/CinemachineTouchInputMapper.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Helpers/CinemachineTriggerAction.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Helpers/GroupWeightManipulator.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Impulse.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Impulse/CinemachineCollisionImpulseSource.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Impulse/CinemachineFixedSignal.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Impulse/CinemachineImpulseDefinition.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Impulse/CinemachineImpulseListener.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Impulse/CinemachineImpulseManager.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Impulse/CinemachineImpulseSource.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Impulse/CinemachineIndependentImpulseListener.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/PostProcessing.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/PostProcessing/CinemachinePostProcessing.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/PostProcessing/CinemachineVolumeSettings.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/ThirdParty.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/ThirdParty/clipper.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Timeline.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Timeline/CinemachineMixer.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Timeline/CinemachineShot.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Timeline/CinemachineShotPlayable.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Timeline/CinemachineTrack.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/.sample.json
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/2D.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/2D/2D Fighters.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/2D/2D Fighters.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/2D/2D Zoom.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/2D/2D Zoom.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/2D/2DConfinedTargetGroup.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/2D/2DConfinedTargetGroup.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/2D/2DConfiner.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/2D/2DConfiner.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/2D/2DConfinerComplex.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/2D/2DConfinerComplex.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/2D/2DTargetGroup.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/2D/2DTargetGroup.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/2D/LoseSightWhenTargetsFallsOffThePlatform.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/2D/MouseScrollZoom2D.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/3rdPersonWithAimMode.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/3rdPersonWithAimMode/3rdPersonWithAimMode.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/3rdPersonWithAimMode/3rdPersonWithAimMode.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/3rdPersonWithAimMode/ActivateOnKeypress.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/AimingRig.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/AimingRig/AimingRig.asmdef
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/AimingRig/AimingRig.asmdef.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/AimingRig/AimingRig.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/AimingRig/AimingRig.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/AimingRig/AimReticle.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Anywhere Door.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Anywhere Door.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/CAM1.renderTexture
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/CAM1.renderTexture.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/CAM2.renderTexture
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/CAM2.renderTexture.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Lightmap-0_comp_dir.png.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Lightmap-0_comp_light.exr.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/CAM1.mat
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/CAM1.mat.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/CAM2.mat
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/CAM2.mat.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/Green.mat
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/Green.mat.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/Pink.mat
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/Pink.mat.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/Skybox_Mat.mat
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/Skybox_Mat.mat.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/PlayerLookAt.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/PlayerMovement.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/ReflectionProbe-0.exr.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/ScreenCutoutShader.shader
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/ScreenCutoutShader.shader.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/TagChanger.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/BlendListCamera.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/BlendListCamera.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/BossCamera/BossCam.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/BossCamera/BossCam.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/BossCamera/BossLookAt.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/BossCamera/CustomLockCameraY.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/CameraMagnets.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/CameraMagnets/CameraMagnetProperty.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/CameraMagnets/CameraMagnets.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/CameraMagnets/CameraMagnets.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/CameraMagnets/CameraMagnetTargetController.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/CameraMagnets/Proximity.png.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/ClearShot.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/ClearShot character.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/ClearShot character.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/ClearShot closest.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/ClearShot closest.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/ClearShot.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/ClearShot.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/CM ClearShot1 Blends.asset
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/CM ClearShot1 Blends.asset.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/TIMELINE world animsTimeline.playable
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/TIMELINE world animsTimeline.playable.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Composer Look Ahead.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Composer Look Ahead.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Composer.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Composer.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Custom Blends.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Custom Blends/BlenderSettings.asset
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Custom Blends/BlenderSettings.asset.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Custom Blends/Custom Blends.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Custom Blends/Custom Blends.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Custom Blends/Noise_CM_4.asset
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Custom Blends/Noise_CM_4.asset.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/DualTarget.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/DualTarget/DualTarget.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/DualTarget/DualTarget.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/DualTarget/MoveAimTarget.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/DualTarget/PointAtAimTarget.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects/CinemachineFadeOutNearbyObjects.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects/FadeOut.mat
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects/FadeOut.mat.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects/FadeOut.shader
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects/FadeOut.shader.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects/FadeOutNearbyObjects.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects/FadeOutNearbyObjects.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/FollowCam Simple Follow.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/FollowCam Simple Follow.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/FollowCam.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/FollowCam.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/FollowZoom.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/FollowZoom.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Free Look character.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Free Look character.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Free Look collider.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Free Look collider.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Impulse.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Impulse/Impulse.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Impulse/Impulse.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Impulse/ImpulseWave.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Impulse/ImpulseWave.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Impulse/ShakingCube.prefab
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Impulse/ShakingCube.prefab.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Impulse/Y Bump Signal Definition.asset
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Impulse/Y Bump Signal Definition.asset.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/MixingCamera.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/MixingCamera.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Noise.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Noise.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Scripting.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Scripting/Scripting.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Scripting/Scripting.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Scripting/ScriptingExample.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/SphericalSurfaceFollow.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/SphericalSurfaceFollow.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/StateDrivenCamera.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/StateDrivenCamera.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Timeline.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Timeline/Timeline.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Timeline/Timeline.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Timeline/TimelineTimeline.playable
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Timeline/TimelineTimeline.playable.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/CM vcam1Timeline.playable
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/CM vcam1Timeline.playable.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/Dolly Auto.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/Dolly Auto.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/Dolly Cart.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/Dolly Cart.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/Dolly Group.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/Dolly Group.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Transposer.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Transposer/cube movement.anim
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Transposer/cube movement.anim.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Transposer/Cube.controller
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Transposer/Cube.controller.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Transposer/Transposer.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Transposer/Transposer.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/GenericTrigger.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Timeline trigger cube.playable
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Timeline trigger cube.playable.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Trigger cube.prefab
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Trigger cube.prefab.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Trigger volume Timeline.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Trigger volume Timeline.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Trigger volume.unity
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Trigger volume.unity.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Animation.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Animation/cube A motion.anim
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Animation/cube A motion.anim.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Animation/cube B motion.anim
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Animation/cube B motion.anim.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Animation/Cube.controller
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Animation/Cube.controller.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Blends.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Blends/CM StateDrivenCameraBlends.asset
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Blends/CM StateDrivenCameraBlends.asset.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/Bouncy 1.physicmaterial
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/Bouncy 1.physicmaterial.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/checkerboard.mat
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/checkerboard.mat.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/Default_Prototype.mat
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/Default_Prototype.mat.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/Default_Prototype_Blue.mat
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/Default_Prototype_Blue.mat.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/GridBox_Trigger.mat
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/GridBox_Trigger.mat.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/Ground big.mat
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/Ground big.mat.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/Ground.mat
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/Ground.mat.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/RedThing.mat
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/RedThing.mat.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/Trigger.mat
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Materials/Trigger.mat.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Animations.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Animations/Idle.fbx.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Animations/Jog.fbx.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Animations/Sprint.fbx.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Animations/Walk.fbx.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Controllers.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Controllers/CharacterController.controller
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Controllers/CharacterController.controller.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/DefaultMale.fbx.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Materials.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Materials/DefaultMale_Mat.mat
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Materials/DefaultMale_Mat.mat.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Textures.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Textures/DefaultMale_Albedo.tif.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Textures/DefaultMale_Normal.tif.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Textures/DefaultMale_Occlusion.tif.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Textures/DefaultMale_SpecSmooth.tif.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Prefabs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Prefabs/3rdPersonController.prefab
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Prefabs/3rdPersonController.prefab.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Scripts.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Scripts/CharacterMovement.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Scripts/CharacterMovement2D.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Scripts/CharacterMovementNoCamera.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Corridors_1_2.prefab
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Corridors_1_2.prefab.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_2D.prefab
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_2D.prefab.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_Clear_BluePedestal.prefab
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_Clear_BluePedestal.prefab.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_Corridor.prefab
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_Corridor.prefab.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_CorridorMixingCam.prefab
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_CorridorMixingCam.prefab.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_Narrow_Walls.prefab
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_Narrow_Walls.prefab.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_10x10.fbx
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_10x10.fbx.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_10x10_BluePedestal.fbx
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_10x10_BluePedestal.fbx.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_10x4.fbx
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_10x4.fbx.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_1Wall_10x10.fbx
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_1Wall_10x10.fbx.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_2Walls_10x10.fbx
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_2Walls_10x10.fbx.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_LWall_10x10.fbx
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_LWall_10x10.fbx.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_UWall_10x10.fbx
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_UWall_10x10.fbx.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Wall_10x4.fbx
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Wall_10x4.fbx.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Stage1.prefab
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Stage1.prefab.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Stage2.prefab
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Stage2.prefab.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Scripts.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Scripts/ActivateCameraWithDistance.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Scripts/ActivateCamOnPlay.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Scripts/ExampleHelpWindow.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Scripts/InvokeEventFromInspector.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Scripts/MixingCameraBlend.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Scripts/PlayerMove.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Scripts/PlayerMoveOnSphere.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Scripts/PlayerMovePhysics.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Scripts/SimpleElevator.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Scripts/SpawnInCircle.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Scripts/ThirdPersonFollowDistanceModifier.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Textures.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Textures/checkerboard.png.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Textures/crosshair.png.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Textures/GridBox_blue.png.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Textures/GridBox_Default.png.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Textures/GridBox_Trigger.png.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Samples~/Cinemachine Example Scenes/Shared/Textures/GridBox_Trigger.tga.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Editor.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Editor/AxisStateTests.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Editor/com.unity.cinemachine.EditorTests.asmdef
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Editor/com.unity.cinemachine.EditorTests.asmdef.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Editor/DampingTests.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Editor/ScriptableObjectUtilityTests.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Editor/UnityVectorExtensionTests.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Runtime.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Runtime/CameraPositionTests.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Runtime/CamerasBlendingTests.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Runtime/CinemachineFixtureBase.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Runtime/com.unity.cinemachine.Tests.asmdef
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Runtime/com.unity.cinemachine.Tests.asmdef.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Runtime/Confiner2DUnitTests.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Runtime/FreeLookTests.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Runtime/LookaheadTests.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Runtime/StateDrivenCameraTests.cs.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Runtime/TestController.controller
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Tests/Runtime/TestController.controller.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Third Party Notices.md
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/Third Party Notices.md.meta
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/ValidationExceptions.json
+IA Game/Library/PackageCache/com.unity.cinemachine@2.8.9/ValidationExceptions.json.meta
+IA Game/Temp/FSTimeGet-1266a2f896d0ec74c98007347fe5aa13
+IA Game/Temp/FSTimeGet-9812f334eeb894942b368d674d841862
+IA Game/Temp/FSTimeGet-e515855f90a7ed64b97a9d864a051721

@@ -6,7 +6,7 @@ public class FrogModel : MonoBehaviour
 {
     public float jumpSpeed;
     public float maxTime;
-    PlayerModel _lastPlayerTouch;
+    AstroModel _lastPlayerTouch;
     bool _touchPlayer;
     bool _touchFloor;
     public Vector2 range;
@@ -46,14 +46,14 @@ public class FrogModel : MonoBehaviour
         print("DEADD");
         Destroy(gameObject);
     }
-    public void Attack(PlayerModel player)
+    public void Attack(AstroModel player)
     {
         if (player != null)
             Destroy(player.gameObject);
     }
     private void OnCollisionEnter(Collision collision)
     {
-        PlayerModel player = collision.gameObject.GetComponent<PlayerModel>();
+        AstroModel player = collision.gameObject.GetComponent<AstroModel>();
         if (player != null)
         {
             _touchPlayer = true;
@@ -66,7 +66,7 @@ public class FrogModel : MonoBehaviour
     }
     private void OnCollisionExit(Collision collision)
     {
-        PlayerModel player = collision.gameObject.GetComponent<PlayerModel>();
+        AstroModel player = collision.gameObject.GetComponent<AstroModel>();
         if (player == null)
         {
             _touchFloor = false;
@@ -98,7 +98,7 @@ public class FrogModel : MonoBehaviour
             return _touchFloor;
         }
     }
-    public PlayerModel LastPlayerTouch => _lastPlayerTouch;
+    public AstroModel LastPlayerTouch => _lastPlayerTouch;
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.red;
