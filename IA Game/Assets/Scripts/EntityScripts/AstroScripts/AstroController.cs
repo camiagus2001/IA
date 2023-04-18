@@ -18,7 +18,6 @@ public class AstroController : MonoBehaviour
         _states.Add(move);
 
         idle.AddTransition(AstroStateEnum.Running, move);
-
         move.AddTransition(AstroStateEnum.Idle, idle);
 
 

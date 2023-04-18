@@ -5,6 +5,7 @@ using UnityEngine;
 public class AstroStateIdle<T> : AstroStateBase<T>
 {
     T _inputRunning;
+
     public AstroStateIdle(T inputRunning)
     {
         _inputRunning = inputRunning;
