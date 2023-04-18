@@ -34,7 +34,7 @@ public class AkuakuController : MonoBehaviour
         Vector3 dirAvoidance = _obsAvoidance.GetDir();
         Vector3 dir = (_steering.GetDir() + dirAvoidance * multiplier).normalized;
         _entity.Move(dir);
-        _entity.LookDir(dir);
+       // _entity.LookDir(dir);
     }
     private void OnDrawGizmos()
     {
