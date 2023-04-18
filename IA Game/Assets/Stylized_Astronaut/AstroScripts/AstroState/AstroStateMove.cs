@@ -29,7 +29,7 @@ public class AstroStateMove<T> : AstroStateBase<T>
         Vector3 dir = new Vector3(h, 0, v).normalized;
 
         _model.Move(dir);
-        _model.LookDir(dir);
+        //_model.LookDir(dir);
     }
     public override void Sleep()
     {
