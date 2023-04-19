@@ -13,12 +13,15 @@ public class AstroController : MonoBehaviour
         _states = new List<AstroStateBase<AstroStateEnum>>();
         var idle = new AstroStateIdle<AstroStateEnum>(AstroStateEnum.Running);
         var move = new AstroStateMove<AstroStateEnum>(AstroStateEnum.Idle);
+        var attack = new AstroStateAttack<AstroStateEnum>(AstroStateEnum.Attack);
 
         _states.Add(idle);
         _states.Add(move);
+        _states.Add(attack);
 
         idle.AddTransition(AstroStateEnum.Running, move);
         move.AddTransition(AstroStateEnum.Idle, idle);
+        attack.AddTransition(AstroStateEnum.Attack, idle);
 
 
         for (int i = 0; i < _states.Count; i++)

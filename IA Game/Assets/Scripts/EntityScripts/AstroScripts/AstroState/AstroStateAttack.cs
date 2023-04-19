@@ -2,17 +2,22 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AstroStateAttack : MonoBehaviour
+public class AstroStateAttack<T> : AstroStateBase<T>
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    T _inputAttack;
 
-    // Update is called once per frame
-    void Update()
+    public AstroStateAttack(T inputAttack)
     {
-        
+        _inputAttack = inputAttack;
+    }
+    public override void Awake()
+    {
+        base.Awake();
+        Debug.Log("Attack");
+    }
+    public override void Execute()
+    {
+        base.Execute();
+        //Daño
     }
 }
