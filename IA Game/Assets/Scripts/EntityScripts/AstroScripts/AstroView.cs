@@ -15,5 +15,10 @@ public class AstroView : MonoBehaviour
     {
         var vel = _rb.velocity.magnitude;
         anim.SetFloat("Vel", vel);
+
+        if(Input.GetKeyDown(KeyCode.Mouse0)) 
+        {
+            anim.SetTrigger("Attack");
+        }
     }
 }
