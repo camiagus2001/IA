@@ -109,6 +109,8 @@
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+-define:UNITY_POST_PROCESSING_STACK_V2
+-define:CINEMACHINE_POST_PROCESSING_V2
 -define:CINEMACHINE_TIMELINE
 -define:CINEMACHINE_PHYSICS_2D
 -define:CINEMACHINE_PHYSICS
@@ -334,6 +336,8 @@
 -r:"D:/Repositorios/Inteligencia Artificial/IA/IA Game/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/unityplastic.dll"
 -r:"D:/Repositorios/Inteligencia Artificial/IA/IA Game/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"Library/Bee/artifacts/500b0aEDbg.dag/Cinemachine.ref.dll"
+-r:"Library/Bee/artifacts/500b0aEDbg.dag/Unity.Postprocessing.Editor.ref.dll"
+-r:"Library/Bee/artifacts/500b0aEDbg.dag/Unity.Postprocessing.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/500b0aEDbg.dag/Unity.Timeline.Editor.ref.dll"
 -r:"Library/Bee/artifacts/500b0aEDbg.dag/Unity.Timeline.ref.dll"
 -r:"Library/Bee/artifacts/500b0aEDbg.dag/UnityEditor.TestRunner.ref.dll"
