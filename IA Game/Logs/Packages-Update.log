@@ -84,3 +84,19 @@ The following packages were updated:
   com.unity.collab-proxy from version 1.17.2 to 2.0.0
   com.unity.ide.rider from version 3.0.15 to 3.0.18
   com.unity.ide.visualstudio from version 2.0.16 to 2.0.17
+
+=== Wed Apr 19 02:05:39 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.postprocessing from version 3.0.3 to 3.2.2
+
+=== Wed Apr 19 02:05:39 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.postprocessing@3.2.2
