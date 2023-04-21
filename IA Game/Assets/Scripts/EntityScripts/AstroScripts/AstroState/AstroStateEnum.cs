@@ -7,5 +7,6 @@ public enum AstroStateEnum
     Default,
     Running,
     Idle,
-    Attack
+    Attack,
+    Die
 }

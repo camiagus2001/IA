@@ -24,7 +24,8 @@ public class EntityBase : MonoBehaviour
         dir.y = 0;
         transform.forward = Vector3.Lerp(transform.forward, dir, Time.deltaTime * rotSpeed);
     }
-    
+
+      
     public Vector3 GetFoward => transform.forward;
     public float GetSpeed => _rb.velocity.magnitude;
 }

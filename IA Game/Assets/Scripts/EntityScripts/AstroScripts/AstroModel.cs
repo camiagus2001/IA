@@ -13,6 +13,10 @@ public class AstroModel : EntityBase
     private Vector3 moveDirection = Vector3.zero;
     public float gravity = 20.0f;
 
+    public int hp;
+    public int damageEnemy;   
+    public Animator anim;
+
     void Start()
     {
         controller = GetComponent<CharacterController>();
@@ -26,11 +30,26 @@ public class AstroModel : EntityBase
             moveDirection = transform.forward * Input.GetAxis("Vertical") * Myspeed;
         }
 
-        float turn = Input.GetAxis("Horizontal"); //Horizontal or Mouse X
+        float turn = Input.GetAxis("Mouse X"); //Horizontal or Mouse X
        
         transform.Rotate(0, turn * turnSpeed * Time.deltaTime, 0);
       
         controller.Move(moveDirection * Time.deltaTime);
         moveDirection.y -= gravity * Time.deltaTime;
     }
+
+   
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.tag == "FlyEnemy")
+        {          
+            hp -= damageEnemy;
+        }
+
+        if (hp <= 0)
+        {        
+            Destroy(gameObject);
+            Debug.Log("PlayerDead");
+        }
+    }  
 }

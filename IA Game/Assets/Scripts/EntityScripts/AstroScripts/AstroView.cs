@@ -6,6 +6,8 @@ public class AstroView : MonoBehaviour
 {
     private Rigidbody _rb;
     private Animator anim;
+
+    
     private void Awake()
     {
         _rb = GetComponent<Rigidbody>();
@@ -20,5 +22,5 @@ public class AstroView : MonoBehaviour
         {
             anim.SetTrigger("Attack");
         }
-    }
+    }  
 }

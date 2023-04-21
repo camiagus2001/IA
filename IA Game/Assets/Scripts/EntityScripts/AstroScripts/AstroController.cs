@@ -14,6 +14,7 @@ public class AstroController : MonoBehaviour
         var idle = new AstroStateIdle<AstroStateEnum>(AstroStateEnum.Running);
         var move = new AstroStateMove<AstroStateEnum>(AstroStateEnum.Idle);
         var attack = new AstroStateAttack<AstroStateEnum>(AstroStateEnum.Attack);
+        
 
         _states.Add(idle);
         _states.Add(move);
